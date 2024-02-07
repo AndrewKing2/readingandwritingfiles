@@ -1,5 +1,5 @@
+.gitignore
 rwfiles_venv/
 *phil*
 read_clients.py
 read_customers.py
-*git*
